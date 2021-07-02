@@ -21,6 +21,6 @@
 <p><a href="https://github.com/LuisMig-code/KNN-Tutorial/blob/main/KNN_Tutorial.ipynb">Access the project here on GoogleColaboratory </a></p>
 <p><a href="www.linkedin.com/in/luis-miguel-code">Access my LinkedIn here</a></p>
 
-<img src="https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width=680>
+<img src="https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
 
 
